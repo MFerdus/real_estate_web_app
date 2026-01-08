@@ -118,25 +118,7 @@ git clone https://github.com/MFerdus/real_estate_web_app.git
 cd real_estate_web_app
 ```
 
-### 3. (Optional) Create a virtual environment
 
-```bash
-python -m venv venv
-```
-
-Activate it:
-
-* **Windows**
-
-```bash
-venv\Scripts\activate
-```
-
-* **Mac/Linux**
-
-```bash
-source venv/bin/activate
-```
 
 ### 4. Install dependencies
 
@@ -150,17 +132,7 @@ Otherwise, install required libraries manually (e.g., `requests`, `pandas`).
 
 ---
 
-## ▶️ How to Run
 
-### Run the latitude–longitude scraper
-
-```bash
-python latlong_scraper.py
-```
-
-This script will output geographic coordinates for the given address input.
-
----
 
 ### Run the core application logic
 
@@ -185,28 +157,8 @@ This can be connected to:
 
 ---
 
-## 🔮 Future Enhancements
 
-Planned or possible improvements include:
 
-* 🗺 Interactive map integration (Google Maps / Leaflet)
-* 📈 Property price prediction models
-* 🧠 Machine learning–based valuation
-* 🌐 Full-stack web deployment
-* 🏘 Real-time real estate data ingestion
-
----
-
-## 📄 License
-
-This project is intended for **educational and research purposes**.
-You may add an open-source license (e.g., MIT) if desired.
-
----
-
-⭐ *This repository serves as a foundation for building intelligent, location-aware real estate applications.*
-
-```
 
 ---
 
