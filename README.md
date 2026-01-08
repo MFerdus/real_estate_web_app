@@ -140,9 +140,3 @@ This can be connected to:
 
 
 
----
-
-
-
-Just tell me what you want next 👍
-```
