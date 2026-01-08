@@ -1,11 +1,4 @@
-Below is a **detailed, well-structured, production-quality README.md** you can use for your repository
-👉 **[https://github.com/MFerdus/real_estate_web_app](https://github.com/MFerdus/real_estate_web_app)**
 
-This version is **more descriptive**, explains **what the code does**, **why it matters**, and is suitable for **recruiters, professors, and portfolio review**.
-
-You can **copy–paste this directly** into `README.md`.
-
----
 
 ```markdown
 # 🏡 Real Estate Web Application (Backend & Utilities)
