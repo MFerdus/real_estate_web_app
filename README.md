@@ -8,20 +8,7 @@ The project is designed to support real estate platforms by providing **location
 
 ---
 
-## 📑 Table of Contents
 
-1. [Project Overview](#-project-overview)  
-2. [Motivation & Use Case](#-motivation--use-case)  
-3. [Key Features](#-key-features)  
-4. [Project Structure](#-project-structure)  
-5. [How the System Works](#-how-the-system-works)  
-6. [Installation & Setup](#-installation--setup)  
-7. [How to Run](#-how-to-run)  
-8. [Technologies Used](#-technologies-used)  
-9. [Future Enhancements](#-future-enhancements)  
-10. [License](#-license)  
-
----
 
 ## 🚀 Project Overview
 
